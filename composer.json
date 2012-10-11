@@ -1,0 +1,7 @@
+{
+    "name": "ecitecm/ClickTale",
+    "description": "ClickTale Vendor",
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
